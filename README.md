@@ -7,4 +7,4 @@ a simple python script with a GUI for banker's algorithm
 `pip install pyqt5`
 
 2. run the code
-`python bankers-algorithm.py`
+`python bankers_algorithm.py`
